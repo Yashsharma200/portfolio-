@@ -87,6 +87,7 @@ function App() {
     <>
       <header className="nav">
         <a href="#home" className="logo">
+          Yash Sharma
         </a>
         <nav>
           <a href="#about">About</a>
