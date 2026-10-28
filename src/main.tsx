@@ -240,9 +240,9 @@ function App() {
                 </article>
               ))}
             </div>
-            <p className="project-note">
+            {/* <p className="project-note">
               Project source links and live demos can be added when available.
-            </p>
+            </p> */}
           </div>
         </section>
         <section id="skills" className="section container">
